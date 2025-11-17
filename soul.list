@@ -9,7 +9,6 @@ DOMAIN-SUFFIX, fengkongcloud.com
 DOMAIN-SUFFIX, shuzilm.com
 DOMAIN-SUFFIX, immomo.com
 DOMAIN-KEYWORD, soulapp
-
 IP-CIDR, 47.96.0.0/12.
 IP-CIDR, 114.67.0.0/16.
 IP-CIDR, 121.89.0.0/16.
